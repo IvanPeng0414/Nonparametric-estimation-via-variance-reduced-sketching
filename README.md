@@ -10,13 +10,7 @@ This repository contains the Python implementation of the methods and algorithms
 - Implementation of nonparametric estimation algorithms.
 - Variance reduction techniques for improved performance.
 - Example datasets and scripts for demonstration.
-- Comprehensive documentation for each module.
 
-## Prerequisites
-
-Before running the code, ensure you have the following installed:
-- Python 3.x
-- Required Python libraries: [NumPy, Pandas, Scikit-learn, Scipy, PyTorch]
 
 ## Installation
 
@@ -34,7 +28,7 @@ Include any example scripts or commands to demonstrate the functionality of your
 For instance:
 
 ```bash
-python Density.py
+python Density_Estimation_sin_diffd.py
 ```
 
 ## Contributing
