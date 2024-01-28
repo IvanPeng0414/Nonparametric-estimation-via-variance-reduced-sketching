@@ -1,4 +1,4 @@
-# Nonparametric-estimation-via-variance-reduced-sketching
+# Nonparametric-Estimation-via-Variance-Reduced-Sketching
 
 
 ## Introduction
