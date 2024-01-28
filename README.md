@@ -31,20 +31,13 @@ For instance:
 python Density_Estimation_sin_diffd.py
 ```
 
-## Contributing
-
-Contributions to the project are welcome! Please read `CONTRIBUTING.md` for details on our code of conduct and the process for submitting pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE) - see the `LICENSE` file for details.
-
 ## Citation
 
 If you use this code in your research, please cite our paper:
 
 ```
-add later
+Yuehaw Khoo, Yifan Peng, and Daren Wang. "Nonparametric Estimation via Variance-Reduced Sketching." arXiv preprint arXiv:2401.11646 (2024).
+
 ```
 
 ## Contact
