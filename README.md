@@ -27,28 +27,6 @@ git clone https://github.com/[YourUsername]/Nonparametric-estimation-via-varianc
 cd Nonparametric-estimation-via-variance-reduced-sketching
 ```
 
-Install the required Python packages:
-
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
-
-Provide instructions on how to use the code. For example:
-
-To run the main algorithm on a sample dataset:
-
-```bash
-python main.py --dataset sample_data.csv
-```
-
-Include instructions for any scripts or additional modules:
-
-```bash
-python script_name.py --option value
-```
-
 ## Examples
 
 Include any example scripts or commands to demonstrate the functionality of your code. 
@@ -56,7 +34,7 @@ Include any example scripts or commands to demonstrate the functionality of your
 For instance:
 
 ```bash
-python examples/demo_variance_reduction.py
+python Density.py
 ```
 
 ## Contributing
