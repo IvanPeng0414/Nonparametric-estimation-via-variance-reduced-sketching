@@ -28,7 +28,7 @@ Include any example scripts or commands to demonstrate the functionality of your
 For instance:
 
 ```bash
-python Density_Estimation_sin_diffd.py
+python Gaussian2d/density_estimation_2d_VRS.py
 ```
 
 ## Citation
